@@ -11,14 +11,14 @@
 
 ### 💻 A few words about my activity and projects:
 
-* 🌱 I know that being a good developer requires a lot of work, time and patience, so I stick to the strategy sounds like "Little steps everyday lead to great progress in the future".
+* 🌱 I know that being a good developer requires a lot of work, time and patience, so I stick to the strategy "Little steps everyday lead to great progress in the future".
 
 * 🔭 I have done a 10 months long course [Web-Developer by Yandex Practicum](https://practicum.yandex.ru/web/).
 
-* 🔥 Getting crushed codewars tasks, learning math and algorithms to improve my O(n) <a href="https://www.codewars.com/users/arman1231">
+* 🔥 Getting crushed the codewars tasks, learning math and algorithms to improve my O(n) <a href="https://www.codewars.com/users/arman1231">
   <img src="https://www.codewars.com/users/arman1231/badges/micro"><a/>
 
-* ⚡ I have long experience design and building websites My previous roles was also connected with SEO. I have a lot of experience in team work. [Here you can look at my short website-portfolio](https://cherkharov.com)
+* ⚡ I have long experience designing and implementing html websites. My previous roles was also connected with SEO, so I understand what market want's. I have a lot of experience in team work. [Here you can look at my short website-portfolio](https://cherkharov.com)
 
 * 🤝 I am open to cooperation and new opportunities
 
