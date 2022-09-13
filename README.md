@@ -91,7 +91,7 @@
 
 ### ***Contacts:***
 ### 📧 Email: arman1231@yandex.com
-### 🌐 Telegram: @armandoChe
+### 🌐 Telegram: https://t.me/armandoChe
 ### 📧 LinkedIn: https://www.linkedin.com/in/arman-cherkharov/
 
 
