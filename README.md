@@ -13,8 +13,6 @@
 
 * 🌱 I know that being a good developer requires a lot of work, time and patience, so I stick to the strategy "Little steps everyday lead to great progress in the future".
 
-* 🔭 I have done a 10 months long course [Web-Developer by Yandex Practicum](https://practicum.yandex.ru/web/).
-
 * 🔥 Getting crushed the codewars tasks, learning math and algorithms to improve my O(n) <a href="https://www.codewars.com/users/arman1231">
   <img src="https://www.codewars.com/users/arman1231/badges/micro"><a/>
 
@@ -56,10 +54,7 @@
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   </a> 
-</p>
-
-### 🛠️ Other Languages and Tools that are in progress:
-<a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="30" height="30"/>
  </a>
  <a href="https://nextjs.org/" target="_blank"> 
@@ -70,6 +65,9 @@
     <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="30" height="30"/>
   </a> 
 </a>
+</p>
+
+### 🛠️ Other Languages and Tools that are in progress:
  <a href="https://jestjs.io/docs/getting-started" target="_blank"> 
   <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="Jest" width="30" height="30"/>
 </a>
